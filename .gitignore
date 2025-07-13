@@ -1,0 +1,17 @@
+# Virtual Environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE and OS specific files
+.idea/
+.vscode/
+*.DS_Store
+
+# Models - trained models are usually large
+models/
