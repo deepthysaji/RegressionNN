@@ -8,7 +8,7 @@ The goal is to build, train, and evaluate a regression model using TensorFlow an
 ## Setup and Installation
 
 1.  Clone the repository:
-    `git clone <your-repo-url>`
+    `git clone https://github.com/deepthysaji/RegressionNN`
 
 2.  Navigate to the project directory:
     `cd house_price_predictor`
