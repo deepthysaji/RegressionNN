@@ -1,0 +1,22 @@
+=== Improved Neural Network Model Results ===
+Dataset: California Housing Dataset
+Improvements Applied:
+  - Feature Engineering (3 new features)
+  - RobustScaler for better outlier handling
+  - Deeper architecture (4 hidden layers: 128-64-32-16)
+  - Regularization (Dropout + L2)
+  - Batch Normalization
+  - Huber loss (robust to outliers)
+  - Advanced callbacks (EarlyStopping, ReduceLROnPlateau)
+  - Ensemble of 3 models
+
+--- Results Comparison ---
+Improved Single Model:
+  R-squared: 0.7728
+  MAE: 0.3803
+  MSE: 0.2977
+
+Ensemble Model:
+  R-squared: 0.7876
+  MAE: 0.3596
+  MSE: 0.2784
