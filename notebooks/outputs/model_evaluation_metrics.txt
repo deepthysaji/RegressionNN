@@ -1,0 +1,18 @@
+=== Neural Network Model Evaluation Results ===
+Dataset: California Housing Dataset
+Model Architecture: Sequential Neural Network
+Training Set Size: 16512 samples
+Test Set Size: 4128 samples
+Number of Features: 8
+Training Epochs: 50
+
+--- Performance Metrics on Test Set ---
+Mean Squared Error (MSE): 0.2884
+Mean Absolute Error (MAE): 0.3679
+R-squared Score: 0.7799
+
+--- Model Summary ---
+Final Training Loss: 0.2704
+Final Validation Loss: 0.2884
+Final Training MAE: 0.3557
+Final Validation MAE: 0.3679
